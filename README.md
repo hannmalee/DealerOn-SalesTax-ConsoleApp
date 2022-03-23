@@ -39,7 +39,7 @@ Chocolate bar: 0.85
 Sales Taxes: 1.50  
 Total: 42.32 
 
-OUTPUT 2 
+OUTPUT 2
 Imported box of chocolates: 10.50  
 Imported bottle of perfume: 54.65  
 Sales Taxes: 7.65 
